@@ -10,3 +10,15 @@ Results:
 The trained YOLOv4-tiny model demonstrated promising results in detecting elevator buttons. The following metrics were obtained during the evaluation:
 Mean Average Precision (mAP): 91.43%
 Precision-Recall Curve: ![download](https://github.com/beiyonder/TrainingWithYOLOv-x/assets/86228410/cf64d1a7-fbe8-4c1d-b308-665c4aaf99f1)
+
+A Few more processed images:
+![download](https://github.com/beiyonder/TrainingWithYOLOv-x/assets/86228410/ff899ba0-6d48-4ea4-9eb5-3d34a2b4abb8)
+
+
+![download](https://github.com/beiyonder/TrainingWithYOLOv-x/assets/86228410/9ccd9492-9e9c-4eef-9d47-3f25ed741fe3)
+
+
+![download](https://github.com/beiyonder/TrainingWithYOLOv-x/assets/86228410/aabfe58d-0218-442e-a50a-76dc4e430109)
+
+
+![download](https://github.com/beiyonder/TrainingWithYOLOv-x/assets/86228410/e23a8a92-9d5f-4cd5-9863-1e95c357472d)
