@@ -9,6 +9,16 @@ Evaluation: After training, the model was evaluated using the validation set. Me
 Results:
 The trained YOLOv4-tiny model demonstrated promising results in detecting elevator buttons. The following metrics were obtained during the evaluation:
 Mean Average Precision (mAP): 91.43%
+For best weights:
+detections_count = 3498, unique_truth_count = 1198  
+class_id = 0, name = button, ap = 91.43%   	 (TP = 1098, FP = 296) 
+
+for conf_thresh = 0.25, precision = 0.79, recall = 0.92, F1-score = 0.85 
+for conf_thresh = 0.25, TP = 1098, FP = 296, FN = 100, average IoU = 64.53 % 
+
+IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+mean average precision (mAP@0.50) = 0.914312, or 91.43 % 
+Total Detection Time: 1 Seconds
 Precision-Recall Curve: ![download](https://github.com/beiyonder/TrainingWithYOLOv-x/assets/86228410/cf64d1a7-fbe8-4c1d-b308-665c4aaf99f1)
 
 A Few more processed images:
