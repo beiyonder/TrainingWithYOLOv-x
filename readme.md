@@ -18,7 +18,8 @@ for conf_thresh = 0.25, TP = 1098, FP = 296, FN = 100, average IoU = 64.53 %
 
 IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
 mean average precision (mAP@0.50) = 0.914312, or 91.43 % 
-Total Detection Time: 1 Seconds
+Total Detection Time: 1 Seconds.
+
 Precision-Recall Curve: ![download](https://github.com/beiyonder/TrainingWithYOLOv-x/assets/86228410/cf64d1a7-fbe8-4c1d-b308-665c4aaf99f1)
 
 A Few more processed images:
